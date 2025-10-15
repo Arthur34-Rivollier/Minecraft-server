@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "name": "XaerosWorldMap_1.38.4_Forge_1.20.jar",
+      "url": "https://raw.githubusercontent.com/Arthur34-Rivollier/Minecraft-server/main/mods/XaerosWorldMap_1.38.4_Forge_1.20.jar"
+    },
+    {
+      "name": "Xaeros_Minimap_24.1.1_Forge_1.20.jar",
+      "url": "https://raw.githubusercontent.com/Arthur34-Rivollier/Minecraft-server/main/mods/Xaeros_Minimap_24.1.1_Forge_1.20.jar"
+    },
+    {
+      "name": "test.jar",
+      "url": "https://raw.githubusercontent.com/Arthur34-Rivollier/Minecraft-server/main/mods/test.jar"
+    }
+  ]
+}
